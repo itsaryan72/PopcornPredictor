@@ -60,6 +60,18 @@ We used the **KMeans clustering algorithm** to group movies based on features su
 
 - streamlit run app.py
 
+## ✅ TODO
+
+Here are some planned enhancements for future versions of PopcornPredictor:
+
+- [ ] 🔐 Add **User Authentication** (Login/Signup) to personalize recommendations
+- [ ] 💾 Integrate **MySQL** backend for storing user data and preferences
+- [ ] 💳 Enable **Stripe Payment Integration** to charge users for premium recommendations
+- [ ] 📊 Create **Interactive Graphs** (e.g., rating distributions, genre trends, user analytics)
+- [ ] 🎨 Improve overall UI/UX styling for a more polished experience
+
+> These improvements will help scale the app from a project to a full-fledged product!
+
 ## 📬 Contact
 
 Created by [Aryan Verma](https://aryan-verma.vercel.app/)  
